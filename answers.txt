@@ -1,0 +1,10 @@
+3.) What has changed? What do you think > in the previous statment did when combined with the ls command?
+	The newfile.txt was created in the current directory I was in. the > must have creaded the file and plasted it in the directory i was in.
+
+5.) What does it say about newfile.txt?
+	It a change that is ready to be commited however answers.txt is untracked.
+
+6.) git diff .?
+	it lists the content in side of the text file and listed the new text entered in green with a '+'. 
+
+
